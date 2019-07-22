@@ -1,6 +1,6 @@
 ## Minimum sample for issue causing SteamVR crash on Manjaro using Sync()
 
-The following code crashes SteamVR on Manjaro on an i7-6700K, even with a relatively long wait time of 1 second. 
+The following code crashes SteamVR on Manjaro on an i7-6700K, even with a relatively long wait time of 0.5 seconds.
 
 The same code does not cause a SEGFAULT on Windows on the same processor.
 
